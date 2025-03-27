@@ -1,4 +1,4 @@
-#incluem "gnl.h"
+#include "gnl.h"
 
 int main(void)
 {
